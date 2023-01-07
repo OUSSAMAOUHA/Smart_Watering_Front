@@ -1,6 +1,37 @@
 # Smart_Watering_Frontend
 
 Ce projet presente la partie frontend du projet Smart_Wtering (seulement la 1ere partie concernant le plantag, la partie arrosage et installation vont etre realiser apres) 
+Ce projet a pour but de mettre en place une interface permettant de gerer les fermes, les parcelles, et le plantage dans les parcelles. Il est developper par Android Studio en utilisant Java.
+
+<img src="https://cdn-icons-png.flaticon.com/128/2545/2545092.png" width="200" height="200">
+
+## Fonctionnalités
+1.Gestion des fermes;
+
+2.Gestion des parcelles;
+
+3.Gestion des plantes (Création des plantes en spécifiant leurs types, et ses conditions optimales) ;
+
+4.Gestion des types plantes;
+
+5.Gestion de plantage;
+
+6.Gestion des utilisateurs;
+
+## Mise en place du projet
+Pour mettre en place ce projet, vous aurez besoin des éléments suivants :
+
+Un serveur d'application Java (comme Tomcat)
+
+Un SGBD (comme MySQL)
+
+Un éditeur de code (comme InteligeIdea)
+
+Le driver JDBC de votre SGBD (à télécharger sur le site officiel de votre SGBD)
+
+Le framework Hibernate (si vous utiliser InteligeIdea il est inclus dans cet outil)
+
+
 
 ## Pour commencer 
 Il faut dabord comprendre la conception du projet 
@@ -34,12 +65,16 @@ npm install
 ## Démarrage 
 
               Demarrer React
+<img src="https://www.macoratti.net/18/08/react_intro24.png" width="200" height="100"> 
+              
 
 npm run start
 
 
 ## Auteurs 
 
-***OUHAYOU OUSSAMA**
-***BERRHOU SALAH EDDINE** 
-***ED_DAIF KAOUTHAR**
+OUHAYOU OUSSAMA
+
+BERRHOU SALAH EDDINE
+
+ED_DAIF KAOUTHAR
