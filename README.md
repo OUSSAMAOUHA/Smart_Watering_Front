@@ -65,7 +65,7 @@ npm install
 ## Démarrage 
 
               Demarrer React
-<img src="https://www.macoratti.net/18/08/react_intro24.png" width="200" height="100"> 
+<img src="https://www.macoratti.net/18/08/react_intro24.png" width="500" height="400"> 
               
 
 npm run start
