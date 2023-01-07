@@ -1,9 +1,9 @@
 # Smart_Watering_Frontend
 
 Ce projet presente la partie frontend du projet Smart_Wtering (seulement la 1ere partie concernant le plantag, la partie arrosage et installation vont etre realiser apres) 
-Ce projet a pour but de mettre en place une interface permettant de gerer les fermes, les parcelles, et le plantage dans les parcelles. Il est developper par Android Studio en utilisant Java.
+Ce projet a pour but de mettre en place une interface permettant de gerer les fermes, les parcelles, et le plantage dans les parcelles. Il est developper par React JS
 
-<img src="https://cdn-icons-png.flaticon.com/128/2545/2545092.png" width="200" height="200">
+<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" width="200" height="200">
 
 ## Fonctionnalités
 1.Gestion des fermes;
